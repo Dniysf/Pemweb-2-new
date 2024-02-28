@@ -9,4 +9,4 @@ echo 'Nama:' .  $mahasiswaDUA["nama"] . "<br>";
 echo 'Nim:' .  $mahasiswaDUA["NIM"] . "<br>";
 echo 'Jurusan:' .  $mahasiswaDUA["jurusan"];
 
-?>
+?> 
